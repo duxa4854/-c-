@@ -1,0 +1,11 @@
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.Калькулятор.resources
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\Андрей\c#\Laba_12-master\Калькулятор\obj\Debug\Калькулятор.exe.config

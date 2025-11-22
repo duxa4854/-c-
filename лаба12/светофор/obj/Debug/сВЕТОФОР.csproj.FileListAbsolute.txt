@@ -1,0 +1,10 @@
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\bin\Debug\сВЕТОФОР.exe.config
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\bin\Debug\сВЕТОФОР.exe
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\bin\Debug\сВЕТОФОР.pdb
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.csproj.AssemblyReference.cache
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.Form1.resources
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.Properties.Resources.resources
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.csproj.GenerateResource.cache
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.exe
+C:\Users\Андрей\c#\Laba_12-master\сВЕТОФОР\obj\Debug\сВЕТОФОР.pdb

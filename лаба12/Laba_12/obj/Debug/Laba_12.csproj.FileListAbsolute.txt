@@ -1,0 +1,10 @@
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\bin\Debug\Laba_12.exe.config
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\bin\Debug\Laba_12.exe
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\bin\Debug\Laba_12.pdb
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.csproj.AssemblyReference.cache
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.Form1.resources
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.Properties.Resources.resources
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.csproj.GenerateResource.cache
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.exe
+C:\Users\Андрей\c#\Laba_12-master\Laba_12\obj\Debug\Laba_12.pdb
