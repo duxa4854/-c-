@@ -1,0 +1,11 @@
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\bin\Debug\DZ-11.exe.config
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\bin\Debug\DZ-11.exe
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\bin\Debug\DZ-11.pdb
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ-11.csproj.AssemblyReference.cache
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ_11.Form1.resources
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ_11.Properties.Resources.resources
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ-11.csproj.GenerateResource.cache
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ-11.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ-11.exe
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ-11.pdb
+C:\Users\Андрей\c#\DZ-11-master\DZ-11\obj\Debug\DZ-11.exe.config

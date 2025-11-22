@@ -1,0 +1,10 @@
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\bin\Debug\StopTimer.exe.config
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\bin\Debug\StopTimer.exe
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\bin\Debug\StopTimer.pdb
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.csproj.AssemblyReference.cache
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.Form1.resources
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.Properties.Resources.resources
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.csproj.GenerateResource.cache
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.exe
+C:\Users\Андрей\c#\StopTimer-master\StopTimer\obj\Debug\StopTimer.pdb
