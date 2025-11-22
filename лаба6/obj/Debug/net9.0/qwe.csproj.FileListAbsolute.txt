@@ -1,0 +1,29 @@
+C:\Работы студентов\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.exe
+C:\Работы студентов\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.deps.json
+C:\Работы студентов\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.runtimeconfig.json
+C:\Работы студентов\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.dll
+C:\Работы студентов\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.pdb
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.AssemblyInfoInputs.cache
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.AssemblyInfo.cs
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.csproj.CoreCompileInputs.cache
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.sourcelink.json
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.dll
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\refint\qwe.dll
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.pdb
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.genruntimeconfig.cache
+C:\Работы студентов\Стренин Заиченко C#\qwe\obj\Debug\net9.0\ref\qwe.dll
+E:\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.exe
+E:\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.deps.json
+E:\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.runtimeconfig.json
+E:\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.dll
+E:\Стренин Заиченко C#\qwe\bin\Debug\net9.0\qwe.pdb
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.AssemblyInfoInputs.cache
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.AssemblyInfo.cs
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.csproj.CoreCompileInputs.cache
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.dll
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\refint\qwe.dll
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.pdb
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\qwe.genruntimeconfig.cache
+E:\Стренин Заиченко C#\qwe\obj\Debug\net9.0\ref\qwe.dll

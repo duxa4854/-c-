@@ -1,0 +1,14 @@
+C:\Users\Андрей\c#\испр\лаба8\лаба8\bin\Debug\net9.0\лаба8.exe
+C:\Users\Андрей\c#\испр\лаба8\лаба8\bin\Debug\net9.0\лаба8.deps.json
+C:\Users\Андрей\c#\испр\лаба8\лаба8\bin\Debug\net9.0\лаба8.runtimeconfig.json
+C:\Users\Андрей\c#\испр\лаба8\лаба8\bin\Debug\net9.0\лаба8.dll
+C:\Users\Андрей\c#\испр\лаба8\лаба8\bin\Debug\net9.0\лаба8.pdb
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.AssemblyInfoInputs.cache
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.AssemblyInfo.cs
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.dll
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\refint\лаба8.dll
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.pdb
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\лаба8.genruntimeconfig.cache
+C:\Users\Андрей\c#\испр\лаба8\лаба8\obj\Debug\net9.0\ref\лаба8.dll
